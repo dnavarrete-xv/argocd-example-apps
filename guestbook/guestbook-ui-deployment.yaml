@@ -18,4 +18,4 @@ spec:
         name: guestbook-ui
         command:
         - sleep
-        - "2800"        
+        - "10000"        
